@@ -34,3 +34,8 @@ docker-compose exec web python manage.py makemigrations
 docker-compose exec web python manage.py migrate
 docker-compose exec web python manage.py collectstatic
 ```
+---
+
+## Над проектом работал:
+
+**[Маценко Александр](https://github.com/Alex1995markson)**
